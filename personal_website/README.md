@@ -1,6 +1,6 @@
-# personal_web
+# personal_website
 
-> for wuder's personal website
+> A Vue.js project
 
 ## Build Setup
 
